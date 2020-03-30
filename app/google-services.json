@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798748000548",
+    "firebase_url": "https://edusharedb-53790.firebaseio.com",
+    "project_id": "edusharedb-53790",
+    "storage_bucket": "edusharedb-53790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798748000548:android:28ca305a7397250f85b3b1",
+        "android_client_info": {
+          "package_name": "com.example.edushare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798748000548-j2efe7ubrcatqvf5qu7ef9ssvm77iria.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edushare",
+            "certificate_hash": "e196b0c8756dd7cb8cf295c541087bccc88b3f07"
+          }
+        },
+        {
+          "client_id": "798748000548-1701ddphf46qhfuovn771srutmmt2kd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvm1BI38vNizuixyUid2rPXGD0wSyLn_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798748000548-1701ddphf46qhfuovn771srutmmt2kd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
